@@ -4,6 +4,8 @@ Abstract:
 ***ISUE***: write a nice greeting for the beginning
 ***ISUE***: write an even nicer greeting for the beginning
 
+Methods: All absolutely novel awesome methods, Henry approved.
+
 Results:
 ***ISUE***: make something up
 
